@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@prashant.guru**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/zmgvzhekmkw76i3/prashant_resume_dec.pdf?dl=0](https://www.dropbox.com/s/zmgvzhekmkw76i3/prashant_resume_dec.pdf?dl=0)
+- 📄 Know about my experiences [download resume](https://www.dropbox.com/s/zmgvzhekmkw76i3/prashant_resume_dec.pdf?dl=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
