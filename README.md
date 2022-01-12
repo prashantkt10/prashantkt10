@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pktripathi10dec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pktripathi10dec/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10726276/prashant-tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10726276/prashant-tripathi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/prashantkt10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prashantkt10/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pktripathi10dec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pktripathi10dec" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10726276/prashant-tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10726276/prashant-tripathi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prashantkt10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantkt10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +30,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkt10&show_icons=true&locale=en&layout=compact" alt="prashantkt10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkt10&" alt="prashantkt10" /></p>
-
