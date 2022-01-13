@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantkt10" alt="prashantkt10" /></a> </p>
 
-- 🔭 I’m currently focusing on [Problem solving](https://github.com/prashantkt10/LeetCode-Submissions)
+- 🔭 I’m currently focusing on [Algorithms](https://github.com/prashantkt10/LeetCode-Submissions)
 
 - 🌱 I’m currently learning **in depth of engineering (database internals, distributed systems, Web3.0)**
 
