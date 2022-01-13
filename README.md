@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A passionate full stack engineer from India.</h3>
+<h3 align="center">A passionate full stack engineer(backend heavy) from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkt10&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkt10" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prashantkt10](https://github.com/prashantkt10)
 
-- 💬 Ask me about **Backend Engineering (JavaScript, Node.Js, Databases, Cache, Stream Processing, Scalable distributed system design).**
+- 💬 Ask me about **Full Stack Engineering (JavaScript, Node.Js, Databases, Cache, Stream Processing, Scalable distributed system design).**
 
 - 📫 How to reach me **contact@prashant.guru**
 
