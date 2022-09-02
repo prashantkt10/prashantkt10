@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently focusing on [Algorithms](https://github.com/prashantkt10/LeetCode-Submissions)
 
-- 🌱 I’m currently learning **in depth of engineering (database internals, distributed systems)** and also started looking into **Web3.0.**
+- 🌱 I’m currently learning **in depth/ core of engineering (database internals, distributed systems)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prashantkt10](https://github.com/prashantkt10)
 
